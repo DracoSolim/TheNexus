@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Draco Solim/Documents/Progral/To Git",
-      "program": "c:/Users/Draco Solim/Documents/Progral/To Git/build/Debug/outDebug",
+      "cwd": "c:/Users/Draco Solim/Documents/Progral/TheNexus/Etapa 1",
+      "program": "c:/Users/Draco Solim/Documents/Progral/TheNexus/Etapa 1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
